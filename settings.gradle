@@ -1,0 +1,5 @@
+rootProject.name='Dagger-Multi-Module-Android-Example'
+include ':app'
+include ':base'
+include ':feature-one'
+include ':feature-two'
