@@ -10,7 +10,7 @@ Learn to use dagger for dependency management in a multi-module app
 
 ## About this Open Source Project
 This open-source project is for you(community). In this project you will learn about how to use dagger for dependency management in a multi-module app.
-
+### You can find the blog to learn about Using Dagger in Multi-Module Architecture [here](https://blog.mindorks.com/dagger-in-a-multi-module-project)
 ## Project Structure
 <p align="start">
     <img src="https://raw.githubusercontent.com/MindorksOpenSource/Dagger-Multi-Module-Android/master/art/project-structure.png">
